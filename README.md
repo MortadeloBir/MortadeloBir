@@ -42,6 +42,6 @@ Gosto de tecnologia desde criança e atualmente estou me esforçando para ser um
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortadelobir&layout=compact&langs_count=7&theme=gruvbox_light"/>
    
    
-   ![Snake animation]()
+   ![Snake animation](https://github.com/MortadeloBir/MortadeloBir/blob/output/github-contribution-grid-snake.svg)
    
 </div>
