@@ -1,6 +1,6 @@
 <h4 align="center">
  
-<img alt="Morta-pic" height="600" src="https://cdn.discordapp.com/attachments/440559932476227595/939755637041164288/readme_github2.gif"/>
+<img alt="Morta-pic" height="500" src="https://cdn.discordapp.com/attachments/440559932476227595/939787502892511242/readme_github.gif"/>
 
 <hr>
   
@@ -38,8 +38,8 @@ Gosto de tecnologia desde criança e atualmente estou me esforçando para ser um
 
 <div align="center">
   <a href="https://github.com/mortadelobir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mortadelobir&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortadelobir&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mortadelobir&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortadelobir&layout=compact&langs_count=7&theme=gruvbox_light"/>
    
    
    ![Snake animation](https://github.com/MortadeloBir/MortadeloBir/blob/output/github-contribution-grid-snake.svg)
